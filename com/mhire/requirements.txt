@@ -1,0 +1,5 @@
+tensorflow 
+pathlib
+numpy
+pandas 
+opencv-python
